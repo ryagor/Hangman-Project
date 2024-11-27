@@ -1,0 +1,51 @@
+[
+    {
+      "character": "Mario",
+      "hint": "The hero of the Mushroom Kingdom."
+    },
+    {
+      "character": "Luigi",
+      "hint": "The other plumber."
+    },
+    {
+      "character": "Peach",
+      "hint": "The princess that is often in need of rescue."
+    },
+    {
+      "character": "Daisy",
+      "hint": "The princess of Sarasaland. Named after a flower."
+    },
+    {
+      "character": "Bowser",
+      "hint": "Has a bad habit of kidnapping princesses."
+    },
+    {
+      "character": "Yoshi",
+      "hint": "The green dinosaur with a long tongue."
+    },
+    {
+      "character": "Toad",
+      "hint": "A *fun guy* (wink wink)."
+    },
+    {
+      "character": "Wario",
+      "hint": "Mario's yellow archrival."
+    },
+    {
+      "character": "Waluigi",
+      "hint": "Tall, mischievous and purple. WAAAAA."
+    },
+    {
+      "character": "Rosalina",
+      "hint": "Mother of the Lumas from Super Mario Galaxy."
+    },
+    {
+      "character": "Koopa",
+      "hint": "A turtle that gets jumped on a lot."
+    },
+    {
+      "character": "Goomba",
+      "hint": "A small brown mushroom that gets jumped on a lot."
+    }
+  ]
+  
